@@ -1,0 +1,4 @@
+[workspace]
+nested = true
+members = ["programs/*"]
+resolver = "2"
